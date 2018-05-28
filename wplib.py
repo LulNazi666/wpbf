@@ -1,7 +1,7 @@
 """
 wpbf WordPress library
 
-Copyright 2011 Andres Tarantini (atarantini@gmail.com)
+Copyright @CAYW Team [arscorazon17@gmail.com]
 
 This file is part of wpbf.
 
