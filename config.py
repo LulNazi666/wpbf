@@ -21,7 +21,7 @@
 wordlist = "wordlist.txt"
 plugins_list = "plugins.txt"
 script_path = "wp-login.php"
-url = "http://localhost/wordpress/wp-login.php"
+url = None
 threads = 5
 proxy = None
 
