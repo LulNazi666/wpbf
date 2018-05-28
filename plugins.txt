@@ -34,6 +34,7 @@ nextgen-smooth-gallery
 mylinksdump
 akismet
 firestats
+wp-login
 simple-press
 cimy-counter
 zingiri-web-shop
