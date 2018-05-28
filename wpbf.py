@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 """
 wpbf is a general audit and bruteforce tool to remotely test the WordPress blogging software
 
-Copyright 2011 Andres Tarantini (atarantini@gmail.com)
+Copyright @CAYW Team [arscorazon17@gmail.com]
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
