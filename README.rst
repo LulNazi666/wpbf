@@ -119,4 +119,4 @@ Or how the script will behave in a normal run::
 Author
 ^^^^^^
 
-* Andres Tarantini (atarantini@gmail.com)
+* CAYW Team (arscorazon17@gmail.com)
