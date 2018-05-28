@@ -1,7 +1,7 @@
 """
 wpbf is a WordPress BruteForce script to remotely test password strength of the WordPress blogging software
 
-Copyright 2011 Andres Tarantini (atarantini@gmail.com)
+Copyright @CAYW Team [arscorazon17@gmail.com]
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
